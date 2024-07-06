@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m Currently Preparing For My Bright Future.<br>🌱 I am Passionate about Coding and Research.<br>🤔 Currently in Final Year of Computer Science Engineering.<br>💬 Ask me about Coding & Exciting projects to work on.<br>📫 How to reach me: My Socials.<br>😄 Pronouns: He/His.<br>⚡ Fact : “Don't let the noise of others opinions drown out your own inner voice.”
+🔭 I’m Currently Preparing For My Bright Future.<br>🌱 I am Passionate about Coding and Research.<br>🤔Computer Science Engineering Graduate.<br>💬 Ask me about Coding & Exciting projects to work on.<br>📫 How to reach me: My Socials.<br>😄 Pronouns: He/His.<br>⚡ Fact : “Don't let the noise of others opinions drown out your own inner voice.”
 
 
 ## 🌐 Socials:
