@@ -15,7 +15,7 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=perfect7613&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
 
-## Hacktoberfest 2023 Badges
+## Hacktoberfest Badges
 
 [![An image of @perfect7613's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/perfect7613)](https://holopin.io/@perfect7613)
 
